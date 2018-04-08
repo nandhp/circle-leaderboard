@@ -1,0 +1,3 @@
+CREATE TABLE circle(id UNIQUE PRIMARY KEY, author UNIQUE NOT NULL COLLATE NOCASE, title, created, betrayed, audited);
+CREATE TABLE user(time, author NOT NULL COLLATE NOCASE, followers, following, betrayer);
+CREATE INDEX by_author ON user(author);

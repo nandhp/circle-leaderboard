@@ -1,0 +1,8 @@
+config.json
+config.json.nandhp
+circle.db*
+lib
+send.sh
+db-*.pl
+praw-5.4.0
+old-praw

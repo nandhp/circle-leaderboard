@@ -1,0 +1,24 @@
+Here's a leaderboard of the largest active and betrayed circles at the
+[end of the Circle of Trust](https://redd.it/8aaxa6), along with the
+users who joined the most circles.
+
+**Size** is the number of people who joined the circle. For circles
+with enough observations available, it links to a chart of size over
+time.
+
+**Age** is measured from circle creation to the end of the event (for
+active circles), or the time of observation of its betrayal (for
+betrayed circles).
+
+The data was gathered by a bot monitoring
+[/r/CircleofTrust/top](/r/CircleofTrust/top) (along with hot, top of
+hour and rising), along with searches and the comment stream.
+Unfortunately, sorting /r/CircleofTrust by top was unreliable, so a
+few circles may have gone missing from the data. The data issues
+affect both completeness of the data and also accuracy of betrayal
+times.
+
+I hope everyone had as much fun with this as I did.
+
+----
+

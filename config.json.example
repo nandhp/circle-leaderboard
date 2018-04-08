@@ -1,0 +1,11 @@
+{
+    "dbfile": "circle.db",
+    "client_id": "",
+    "client_secret": "",
+    "user_agent": "Circle logger (/u/nandhp)",
+    "username": "nandhp",
+    "password": "",
+    "anonymize": [],
+    "chart_relay_base": "",
+    "chart_relay_upload": ""
+}
